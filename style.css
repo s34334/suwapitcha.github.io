@@ -3,12 +3,12 @@ body{
   line-height:1.6;
   margin: 0;
   padding: 0;
-  background-color:#f4f4f4;
+  background-color: #f4f4f4;
   color: #333;
 }
 
 header{
-  backgroud: #4CAF50;
+  backgroud: 4CAF50;
   color: white;
   padding: 20px 0;
   text-align: center;
@@ -32,7 +32,7 @@ section{
 }
 
 h2{
-  color: #4CAF50;
+  color: 4CAF50;
 }
 
 .project{
