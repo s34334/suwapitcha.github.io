@@ -1,20 +1,20 @@
-body{
+body {
   font-family: Arial, sans-serif;
-  line-height:1.6;
+  line-height: 1.6;
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
   color: #333;
 }
 
-header{
-  backgroud: 4CAF50;
+header {
+  background: #4CAF50; /* แก้จาก backgroud */
   color: white;
   padding: 20px 0;
   text-align: center;
 }
 
-header h1{
+header h1 {
   margin: 0;
 }
 
@@ -22,37 +22,37 @@ header p {
   margin: 5px 0 0;
 }
 
-section{
+section {
   padding: 20px;
   margin: 20px auto;
   max-width: 800px;
-  backgroud: white;
+  background: white; /* แก้จาก backgroud */
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.a);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* แก้จาก 0.a เป็น 0.1 */
 }
 
-h2{
-  color: 4CAF50;
+h2 {
+  color: #4CAF50;
 }
 
-.project{
-  margin-bottom: 0 0 10px;
+.project {
+  margin-bottom: 20px; /* แก้จาก 0 0 10px */
 }
 
-.project h3{
+.project h3 {
   margin: 0 0 10px;
   color: #333;
 }
 
-ul{
+ul {
   list-style-type: square;
   padding-left: 20px;
 }
 
-footer{
+footer {
   text-align: center;
-  paddinf: 10px;
-  backgroud: #333;
-  margin-top:20px;
+  padding: 10px; /* แก้จาก paddinf */
+  background: #333; /* แก้จาก backgroud */
+  color: white;
+  margin-top: 20px;
 }
-  
