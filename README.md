@@ -1,1 +1,0 @@
-# suwapitcha.github.io
